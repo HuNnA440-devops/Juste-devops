@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hello, moi c'est HuNnA440</h1>
-<h3 align="center">🚀 DevOps Engineer | Linux | Kubernetes | Ansible | AWS | CI/CD | Cloud Native</h3>
+<h1 align="center">👋 Hello, moi c'est Juste</h1>
+<h3 align="center">🚀 DevOps Junior | Linux | Kubernetes | Ansible | AWS | CI/CD | Cloud Native</h3>
 
 ---
 
